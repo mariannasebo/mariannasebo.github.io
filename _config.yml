@@ -27,6 +27,16 @@ url: "https://mariannasebo.github.io" # the base hostname & protocol for your si
 twitter_username: mariannasebo
 github_username:  mariannasebo
 
+#Fields minima uses, but are not defaulted with jekyll new command.
+#Author is the default for posts, the Atom feed, and is used in the foor.
+author: Marianna Sebő
+linkedin_username: mariannasebő
+
+#New fields not defaulted by jekyll-new with the minima theme
+#add a copyright. A copyright symbol and year will be added automatically
+#footer should be changes
+#copyright: "XXX"
+
 # Build settings
 # removed minima theme as it is now a regular theme.
 # theme: minima
