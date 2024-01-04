@@ -1,4 +1,7 @@
-<h1>About </h1>
+---
+layout: page
+title: About
+---
 
 Here is some info about me!
 

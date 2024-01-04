@@ -29,8 +29,13 @@ url: "https://mariannasebo.github.io" # the base hostname & protocol for your si
 twitter_username: mariannasebo
 github_username:  mariannasebo
 google_schoolar: https://scholar.google.com/citations?user=98uc3FQAAAAJ&hl=en
-cv_link: assets/files/cv.pdf
 
+permalink: /:categories/:year/:month/:day/:title/
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
 
 #Fields minima uses, but are not defaulted with jekyll new command.
 #Author is the default for posts, the Atom feed, and is used in the foor.
