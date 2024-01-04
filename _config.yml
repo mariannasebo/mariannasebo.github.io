@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+theme: jekyll-theme-basically-basic
 title: Marianna Sebő
 position: Visiting Assistant Professor of Political Economy
 affiliation: Hochschule für Politik, Technische Universität München

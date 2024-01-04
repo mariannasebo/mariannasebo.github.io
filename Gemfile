@@ -31,3 +31,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "thor" 
 gem "stringex" 
+gem "jekyll-theme-basically-basic"
+
